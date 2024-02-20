@@ -1,4 +1,4 @@
-# Weather-Application Images
+# Weather Web Application Images
 ![Image-1](https://github.com/CodeLightSpeed/Weather-Application/assets/160614469/b91bbd29-a899-4ee0-b417-f5bf499f8f14)
 
 
